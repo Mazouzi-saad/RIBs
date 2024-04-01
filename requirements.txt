@@ -1,0 +1,10 @@
+ultralytics
+spacy
+streamlit
+PIL
+spacy
+paddleocr
+torch
+torch.nn 
+torchvision
+cv2
